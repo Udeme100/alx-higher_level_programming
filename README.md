@@ -1,1 +1,1 @@
-0x00. Python - Hello, World
+This is a group of python task
